@@ -1,4 +1,5 @@
 ### Konichiwa Minasan! 👋
+![](https://github.com/JadlionHD/JadlionHD/blob/master/gabriel.jpg?raw=true)
 
 - 🔭 I’m currently working on ... Node.JS
 - 🌱 I’m currently learning ... discord.js
