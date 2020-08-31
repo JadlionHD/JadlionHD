@@ -12,7 +12,7 @@
 
 - ⚡ Discord **JadlionHD#0987**
 
-
+<h4 align="left">Language and tools</h4>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&hide=html" alt="jadlionhd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadlionhd&show_icons=true" alt="jadlionhd" /></p>
