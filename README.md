@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm JadlionHD</h1>
 <h3 align="center"><img src="https://raw.githubusercontent.com/JadlionHD/JadlionHD/master/zt_jump.gif" width="25px"> A backend developer from indonesia <img src="https://raw.githubusercontent.com/JadlionHD/JadlionHD/master/rainbowok.gif" width="25px"></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/JadlionHD/JadlionHD/master/gabriel.jpg" width="600" heigth="400"></h3>
 
 
 - 🔭 I’m currently working on **Discord.js**
