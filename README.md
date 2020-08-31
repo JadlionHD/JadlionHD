@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm JadlionHD</h1>
 <h3 align="center">A backend developer from indonesia</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jadlionhd" alt="jadlionhd" /> </p>
+
 - 🔭 I’m currently working on **Discord.js**
 
 - 🌱 I’m currently learning **Typescript**
