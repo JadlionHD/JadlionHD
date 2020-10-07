@@ -2,13 +2,6 @@
 <h3 align="center"><img src="https://raw.githubusercontent.com/JadlionHD/JadlionHD/master/zt_jump.gif" width="25px"> A Full Stack developer From Indonesia <img src="https://raw.githubusercontent.com/JadlionHD/JadlionHD/master/rainbowok.gif" width="25px"></h3>
 <h3 align="center"><img src="https://raw.githubusercontent.com/JadlionHD/JadlionHD/master/git_jadlionhd.jpg" width="600" heigth="400"></h3>
 
-
-- 🔭 I’m currently working on **Eris Library**
-
-- 🌱 I’m currently learning **Typescript**
-
-- 👯 I’m looking to collaborate on **Eris**
-
 - 📫 How to reach me **https://discord.gg/zCr2jeZ**
 
 - ⚡ Discord **JadlionHD#0987**
