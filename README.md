@@ -1,6 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm JadlionHD</h1>
-<h3 align="center"><img src="https://raw.githubusercontent.com/JadlionHD/JadlionHD/master/zt_jump.gif" width="25px"> A Full Stack developer From Indonesia <img src="https://raw.githubusercontent.com/JadlionHD/JadlionHD/master/rainbowok.gif" width="25px"></h3>
-<h3 align="center"><img src="https://raw.githubusercontent.com/JadlionHD/JadlionHD/master/git_jadlionhd.jpg" width="600" heigth="400"></h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Jadlion</h1>
+<h3 align="center">Backend developer</h3>
 
 - 📫 How to reach me **https://discord.gg/zCr2jeZ**
 
