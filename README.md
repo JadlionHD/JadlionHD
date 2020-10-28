@@ -6,10 +6,12 @@
 <p>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&hide=html" alt="jadlionhd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadlionhd&show_icons=true" alt="jadlionhd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadlionhd&show_icons=true&theme=dark" alt="jadlionhd" /></p>
 
 <h4 align="left">Social Media</h4>
 
