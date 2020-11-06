@@ -15,7 +15,6 @@
   <a href="https://top.gg/bot/704669618719162449">
     <img src="https://top.gg/api/widget/status/704669618719162449.svg" alt="JadMaid" />
     <img src="https://top.gg/api/widget/servers/704669618719162449.svg" alt="JadMaid" />
-    <img src="https://top.gg/api/widget/upvotes/704669618719162449.svg" alt="JadMaid" />
     <img src="https://top.gg/api/widget/lib/704669618719162449.svg" alt="JadMaid" />
     <img src="https://top.gg/api/widget/owner/704669618719162449.svg" alt="JadMaid" />
   </a>
