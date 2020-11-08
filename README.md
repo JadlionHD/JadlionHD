@@ -14,15 +14,14 @@
 <p>
   <a href="https://top.gg/bot/704669618719162449">
     <img src="https://top.gg/api/widget/status/704669618719162449.svg" alt="JadMaid" />
-    <img src="https://top.gg/api/widget/servers/704669618719162449.svg" alt="JadMaid" />
-    <img src="https://top.gg/api/widget/lib/704669618719162449.svg" alt="JadMaid" />
-    <img src="https://top.gg/api/widget/owner/704669618719162449.svg" alt="JadMaid" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&hide=html&theme=dark" alt="jadlionhd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadlionhd&show_icons=true&theme=dark" alt="jadlionhd" /></p>
+<p>
+  <img src ="https://discord.c99.nl/widget/theme-2/421307985827201024.png" alt="jadlionhd" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jadlionhd&show_icons=true&theme=dark" alt="jadlionhd" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&hide=html&theme=dark" alt="jadlionhd" />
+</p>
 
 <h4 align="left">Social Media</h4>
 
