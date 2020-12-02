@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Jadlion</h1>
 
-- Discord **JadlionHD#0987**
 <p><img src ="https://discord.c99.nl/widget/theme-2/421307985827201024.png" alt="jadlionhd" /></p>
 
 <h4 align="left">Language and tools</h4>
