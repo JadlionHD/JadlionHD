@@ -17,7 +17,7 @@
 </p>
 
  <p><img src="https://github-readme-stats.vercel.app/api?username=jadlionhd&show_icons=true&theme=dark" alt="jadlionhd" /></p>
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&hide=html&theme=dark" alt="jadlionhd" /></p>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=dark" alt="jadlionhd" /></p>
 
 <h4 align="left">Social Media</h4>
 
