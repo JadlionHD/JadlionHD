@@ -2,9 +2,9 @@
 
  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jadlionhd&show_icons=true&theme=dark" alt="jadlionhd" /></p>
  
- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=dark" alt="jadlionhd" /></p>
- 
  <p align="center"><img src ="https://discord.c99.nl/widget/theme-2/421307985827201024.png" alt="jadlionhd" /></p>
+ 
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=dark" alt="jadlionhd" /></p>
 
 <h4 align="center">Language and tools</h4>
 <p align="center">
@@ -14,9 +14,9 @@
 </p>
 
  <p align="center">
-  <strong><a href="">Discord Server</a></strong> |
-  <strong><a href="">Instagram</a></strong> |
-  <strong><a href="">Youtube</a></strong>
+  <strong><a href="https://discord.gg/zCr2jeZ">Discord Server</a></strong> |
+  <strong><a href="https://instagram.com/jadlionhd">Instagram</a></strong> |
+  <strong><a href="https://www.youtube.com/channel/UCrXvTWmb2AnWGKPCsFIn1_A">Youtube</a></strong>
  </p>
 
 
