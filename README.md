@@ -1,12 +1,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Jadlion</h1>
 
-<p align="center"><img src ="https://discord.c99.nl/widget/theme-2/421307985827201024.png" alt="jadlionhd" /></p>
-
  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jadlionhd&show_icons=true&theme=dark" alt="jadlionhd" /></p>
+ 
  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=dark" alt="jadlionhd" /></p>
+ 
+ <p align="center"><img src ="https://discord.c99.nl/widget/theme-2/421307985827201024.png" alt="jadlionhd" /></p>
 
 <h4 align="center">Language and tools</h4>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
