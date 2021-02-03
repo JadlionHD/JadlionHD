@@ -18,12 +18,16 @@
   <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
  </p>
 
-<h4 align="center">Contact</h4>
+<h4 align="center">Social Media</h4>
  <p align="center">
   <strong><a href="https://discord.gg/zCr2jeZ">Discord Server</a></strong> |
   <strong><a href="https://instagram.com/jadlionhd">Instagram</a></strong> |
-  <strong><a href="https://www.youtube.com/channel/UCrXvTWmb2AnWGKPCsFIn1_A">Youtube</a></strong> |
-  <strong><a href="mailto:jadlion.dev@gmail.com">Email</a></strong>
+  <strong><a href="https://www.youtube.com/channel/UCrXvTWmb2AnWGKPCsFIn1_A">Youtube</a></strong>
+ </p>
+ 
+ <h4 align="center">Contact</h4>
+ <p align="center">
+  <strong><a href="mailto:jadlion.dev@gmail.com">jadlion.dev@gmail.com</a></strong>
  </p>
 
 <!---
