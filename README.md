@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Jadlion</h1>
 
  
- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=dark" alt="jadlionhd" /></p>
+ <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=dark" alt="jadlionhd" /></p> -->
 
 <h4 align="center">Skills</h4>
 <p align="center">
