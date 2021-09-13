@@ -1,4 +1,4 @@
-<h1>Hi 👋 I'm Jadlion</h1>
+<h2>Hi 👋 I'm Jadlion</h2>
 <p>Just an ordinary people that make random apps & websites</p>
 
 <h2>Contact</h2>
