@@ -1,5 +1,5 @@
 <h2>Hi 👋 I'm Jadlion</h2>
-<p>Just an ordinary people that make random apps & websites</p>
+<p>Just an ordinary people that make apps & websites</p>
 
 <h2>Contact</h2>
 <ul>
