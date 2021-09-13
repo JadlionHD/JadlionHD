@@ -3,7 +3,7 @@
 
 <h2>Contact</h2>
 <ul>
- <li><a href="mailto:jadlion.dev@gmail.com">jadlion.dev@gmail.com</a></li>
+ <li><a href="mailto:jadlion.dev@gmail.com">Email</a></li>
 </ul>
 
  <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=dark" alt="jadlionhd" /></p> -->
