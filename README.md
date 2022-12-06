@@ -1,6 +1,10 @@
-<h2>Hi 👋 I'm Jadlion</h2>
-<p>Just an ordinary people that make apps & websites</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=dark" />
+# Hi 👋 I'm Jadlion
+#### Just an ordinary people that make apps & websites
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=dark)
+
+![](https://komarev.com/ghpvc/?username=JadlionHD&color=blue)
+
 <h2>Contact</h2>
 <ul>
   <li><a href="mailto:jadlion.dev@gmail.com">Email</a></li>
