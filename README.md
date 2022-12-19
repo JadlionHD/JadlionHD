@@ -3,8 +3,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=dark)
 
-![](https://komarev.com/ghpvc/?username=JadlionHD&color=blue)
-
 ## Contact
 - [Email](mailto:jadlion.dev@gmail.com)
 - [Website](https://jad.my.id)
@@ -12,6 +10,7 @@
  <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=dark" alt="jadlionhd" /></p> -->
 
 <!---
+![](https://komarev.com/ghpvc/?username=JadlionHD&color=blue)
 <p align="left">
 <a href="https://instagram.com/jadlionhd" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jadlionhd" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCrXvTWmb2AnWGKPCsFIn1_A" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jadlionhd" height="30" width="30" /></a>
