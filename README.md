@@ -1,4 +1,4 @@
-# Hi 👋 I'm Jadlion
+# Hai 👋 I'm Jadlion
 #### Just an ordinary people that make apps & websites
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=dark)
