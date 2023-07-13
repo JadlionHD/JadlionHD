@@ -1,7 +1,7 @@
 # Halo 👋 I'm Hendra
-#### Just an ordinary people that make websites & apps
+#### Just ordinary people that code things
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=highcontrast)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=donut&theme=holi)
 
 ## Contact
 - [Email](mailto:jadlion.dev@gmail.com)
