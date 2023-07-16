@@ -1,4 +1,4 @@
-# Halo 👋 I'm Hendra
+# Halo (｡･∀･)ﾉﾞ I'm Hendra
 #### Just ordinary people that code things
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=donut&theme=holi)
