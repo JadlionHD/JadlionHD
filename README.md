@@ -1,11 +1,11 @@
-# Halo (｡･∀･)ﾉﾞ I'm Hendra
-#### Just ordinary people that code things
+# Hai (｡･∀･)ﾉﾞ I'm Hendra
+
+Hello there, I'm **Hendra Gunawan** also known as Jadlion.<br>I mostly code with **Javascript** / **Typescript**, sometimes using low-level such as **C++**
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=donut&theme=holi)
 
 ## Contact
-- [Email](mailto:jadlion.dev@gmail.com)
-- [Website](https://jad.my.id)
+- [jadlion.dev@gmail.com](mailto:jadlion.dev@gmail.com)
 
  <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=dark" alt="jadlionhd" /></p> -->
 
