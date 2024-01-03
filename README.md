@@ -1,4 +1,4 @@
-# Hello (｡･∀･)ﾉﾞ I'm Hendra
+# Hellow (｡･∀･)ﾉﾞ I'm Hendra
 
 Hello there, I'm **Hendra Gunawan** also known as **Jadlion**.<br>I mostly code with **Javascript** / **Typescript**, sometimes using low-level such as **C++**
 
