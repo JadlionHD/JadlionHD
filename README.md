@@ -1,6 +1,6 @@
 # Hello (｡･∀･)ﾉﾞ I'm Hendra
 
-Hello there, I'm **Hendra Gunawan** also known as **Jadlion**.<br>I mostly code with **Javascript** / **Typescript**, sometimes using low-level such as **C++**
+Hello! I'm **Hendra Gunawan** also known as **Jadlion**.<br>I mostly code with **Javascript** / **Typescript**, sometimes using low-level such as **C++**
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=donut&theme=holi)
 
