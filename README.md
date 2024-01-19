@@ -7,7 +7,6 @@ Hai! I'm **Hendra Gunawan** also known as **Jadlion**.<br>I mostly code with **J
 ## Email
 - [jadlion.dev@gmail.com](mailto:jadlion.dev@gmail.com)
 
- <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=compact&theme=dark" alt="jadlionhd" /></p> -->
 
 <!---
 ![](https://komarev.com/ghpvc/?username=JadlionHD&color=blue)
