@@ -17,4 +17,4 @@ Hai! I'm **Hendra Gunawan** also known as **Jadlion**.<br>I mostly code with **J
   <img align="left" alt="JadlionHD's Discord" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 </p>
- <p align="center"><img src ="https://discord.c99.nl/widget/theme-2/421307985827201024.png" alt="jadlionhd" /></p>
+
