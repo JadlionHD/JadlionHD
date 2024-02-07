@@ -4,7 +4,7 @@ Hey! I'm **Hendra Gunawan** a hobbyist programmer.<br>I mostly code with **Javas
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=donut&theme=holi)
 
-## Email
+## Reach me
 - [jadlion.dev@gmail.com](mailto:jadlion.dev@gmail.com)
 
 
