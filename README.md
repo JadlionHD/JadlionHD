@@ -1,4 +1,4 @@
-# Hello there ヾ(•ω•`) I'm Hendra 🌿
+# Hello there ヾ(•ω•`) I'm Hendra ✨
 
 Hey! I'm **Hendra Gunawan** a hobbyist programmer.<br>I mostly code with **Javascript/Typescript**, I also usually using low-level languages such as **C/C++**
 
