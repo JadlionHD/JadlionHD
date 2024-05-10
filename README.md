@@ -1,6 +1,10 @@
 # Hello there ヾ(•ω•`) I'm Hendra ✨
 
-Hey! I'm **Hendra Gunawan** a hobbyist programmer.<br>I mostly code with **Javascript/Typescript**, I also usually using low-level languages such as **C/C++**
+**Hendra Gunawan**, 19 years old and I am a **Fullstacks Developer**<br>
+Software Engineering Vocational School graduate with a passion for technology, especially **Fullstacks development**<br>
+I like making Website & Desktop apps, especially apps related to networking such as multiplayer games
+
+[![](https://skillicons.dev/icons?i=js,ts,html,css,php,go,java,cs,cpp,nodejs,bun,react,nextjs,firebase,supabase,pnpm,sqlite,postgres,mysql,tailwind,vercel&perline=9)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=jadlionhd&label=Profile%20views&color=0e75b6&style=flat)
 
