@@ -1,4 +1,4 @@
-# Hello there ヾ(•ω•`) I'm Hendra ✨
+# Hello there ヽ(✿ﾟ▽ﾟ)ノ I'm Hendra 🔭
 
 **Hendra Gunawan**, 19 years old and I am a **Fullstacks Developer**<br>
 Software Engineering Vocational School graduate with a passion for technology, especially **Fullstacks development**<br>
