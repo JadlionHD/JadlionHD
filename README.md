@@ -11,5 +11,8 @@ I like making Website & Desktop apps, especially apps related to networking such
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jadlionhd&layout=donut&theme=holi)
 
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=jadlionhd&layout=donut&theme=holi)
+
 ## ✉️ Reach me
 - [jadlion.dev@gmail.com](mailto:jadlion.dev@gmail.com)
