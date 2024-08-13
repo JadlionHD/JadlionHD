@@ -4,7 +4,7 @@
 Software Engineering Vocational School graduate with a passion for technology, especially **Fullstacks development**<br>
 I like making Website & Desktop apps, especially apps related to networking such as multiplayer games
 
-[![](https://skillicons.dev/icons?i=js,ts,html,css,php,go,java,cs,cpp,nodejs,bun,react,nextjs,firebase,supabase,pnpm,sqlite,postgres,mysql,tailwind,vercel&perline=9)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,ts,html,css,php,go,java,cs,cpp,nodejs,bun,react,nextjs,firebase,supabase,pnpm,sqlite,postgres,mysql,tailwind,vercel)](https://skillicons.dev)
 
 [![wakatime](https://wakatime.com/badge/user/b3c0dabe-d2af-49ef-aa7c-5f6fe33b1ae9.svg)](https://wakatime.com/@JadlionHD)
 ![](https://komarev.com/ghpvc/?username=jadlionhd&label=Profile%20views&color=0e75b6&style=flat)
