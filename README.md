@@ -16,4 +16,5 @@ I like making Website & Desktop apps, especially apps related to networking such
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=jadlionhd&layout=compact&theme=holi)](https://wakatime.com/@JadlionHD)
 
 ## ✉️ Reach me
+- [Discord](https://discord.gg/zCr2jeZ)
 - [jadlion.dev@gmail.com](mailto:jadlion.dev@gmail.com)
