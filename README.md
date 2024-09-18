@@ -1,4 +1,8 @@
-![w](https://raw.githubusercontent.com/JadlionHD/JadlionHD/refs/heads/master/Jadlion_.svg)
+
+<p align="center">
+  <img alt="title" src="https://raw.githubusercontent.com/JadlionHD/JadlionHD/refs/heads/master/Jadlion_.svg" />
+</p>
+
 
 **Hendra Gunawan**, 19 years old and I am a **Fullstacks Developer**<br>
 Software Engineering Vocational School graduate with a passion for technology, especially **Fullstacks development**<br>
