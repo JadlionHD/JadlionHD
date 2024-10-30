@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://jad.li">
-    <img alt="title" src="https://raw.githubusercontent.com/JadlionHD/JadlionHD/refs/heads/master/JadLion_ba.png" />
+    <img alt="title" src="https://raw.githubusercontent.com/JadlionHD/JadlionHD/refs/heads/master/Jadlion_.svg" />
   </a>
 </p>
 
