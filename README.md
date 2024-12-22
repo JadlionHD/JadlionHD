@@ -5,7 +5,7 @@
   </a>
 </p>
 
-**Hendra Gunawan**, 19 years old and **self-taught Fullstacks Developer** with 7 years learning experience & 1 year professional experience.<br>
+**Hendra Gunawan**, 19 years old and **self-taught Fullstacks Developer** with **<ins>7 years learning experience & 1 year professional experience.</ins>**<br>
 Software Engineering Vocational School graduate with a passion for technology, especially **Fullstacks development**<br>
 I like making Website & Desktop apps, especially apps related to networking such as multiplayer games
 
