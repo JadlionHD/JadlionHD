@@ -5,7 +5,7 @@
   </a>
 </p>
 
-**Hendra Gunawan**, 19 years old and I am a **Fullstacks Developer**<br>
+**Hendra Gunawan**, 19 years old and **self-taught Fullstacks Developer** with 7 years learning experience & 1 year professional experience.<br>
 Software Engineering Vocational School graduate with a passion for technology, especially **Fullstacks development**<br>
 I like making Website & Desktop apps, especially apps related to networking such as multiplayer games
 
@@ -21,7 +21,7 @@ I like making Website & Desktop apps, especially apps related to networking such
 <details>
   <summary>Skills</summary>
  
-  [![](https://skillicons.dev/icons?i=js,ts,html,css,php,go,java,cs,cpp,nodejs,bun,react,nextjs,firebase,supabase,pnpm,sqlite,postgres,mysql,tailwind,vercel)](https://skillicons.dev)
+  [![](https://skillicons.dev/icons?i=js,ts,html,css,php,go,rust,java,cs,cpp,nodejs,bun,react,vue,nextjs,firebase,supabase,pnpm,sqlite,postgres,mysql,tailwind,vercel)](https://skillicons.dev)
 </details>
 
 
