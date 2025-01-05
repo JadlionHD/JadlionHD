@@ -19,7 +19,7 @@ I like making Website & Desktop apps, especially apps related to networking such
 -->
 
 <details>
-  <summary>Skills</summary>
+  <summary>Tools & Languages</summary>
  
   [![](https://skillicons.dev/icons?i=js,ts,html,css,php,go,rust,java,cs,cpp,nodejs,bun,react,vue,nextjs,firebase,supabase,pnpm,sqlite,postgres,mysql,tailwind,vercel)](https://skillicons.dev)
 </details>
