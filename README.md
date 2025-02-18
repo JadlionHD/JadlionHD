@@ -26,7 +26,7 @@ I like making Website & Desktop apps, especially apps related to networking such
 
 
 <details>
-  <summary>Wakatime</summary>
+  <summary>Wakatime Stats</summary>
  
   [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=jadlionhd&layout=compact&theme=holi)](https://wakatime.com/@JadlionHD)
 </details>
