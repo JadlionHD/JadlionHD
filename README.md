@@ -21,7 +21,7 @@ I like making Website & Desktop apps, especially apps related to networking such
 <details>
   <summary>Tools & Languages</summary>
  
-  [![](https://skillicons.dev/icons?i=js,ts,html,css,php,go,rust,java,cs,cpp,nodejs,bun,react,vue,nuxt,nextjs,firebase,supabase,pnpm,sqlite,postgres,mysql,tailwind,vercel)](https://skillicons.dev)
+  [![](https://skillicons.dev/icons?i=js,ts,html,css,php,go,rust,java,cs,cpp,nodejs,bun,react,vue,pinia,nuxt,nextjs,firebase,supabase,pnpm,sqlite,postgres,mysql,tailwind,vercel,vite,vscode,git,github,gitlab)](https://skillicons.dev)
 </details>
 
 
