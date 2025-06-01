@@ -18,6 +18,12 @@ I like making Website & Desktop apps, especially apps related to networking such
 ![](https://github-readme-stats.vercel.app/api?username=jadlionhd&layout=compact&theme=holi)
 -->
 
+
+Favorite Stacks
+
+[![](https://skillicons.dev/icons?i=ts,go,nodejs,bun,elysia,vue,nuxt,tailwind,pnpm,sqlite,postgres)](https://skillicons.dev)
+
+
 <details>
   <summary>Tools & Languages</summary>
  
