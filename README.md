@@ -37,4 +37,4 @@ Favorite Stacks
 
 ## ✉️ Reach me
 - [Discord](https://discord.gg/zCr2jeZ)
-- [jadlion.dev@gmail.com](mailto:jadlion.dev@gmail.com)
+- [hendra@jad.li](mailto:hendra@jad.li)
