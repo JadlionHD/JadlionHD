@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://jad.li">
-    <img alt="title" src="https://raw.githubusercontent.com/JadlionHD/JadlionHD/refs/heads/master/Jadlion_.svg" />
+    <img alt="title" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jadlionhd&show_icons=true&include_all_commits=true&count_private=true" />
   </a>
 </p>
 
